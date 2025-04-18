@@ -80,13 +80,4 @@ Clean and prepare a raw dataset containing nulls, duplicates, inconsistent text 
 - Use data profiling tools like `pandas-profiling`
 - Extend this for analysis or prediction models
 
----
-
-## 📬 Contact
-
-Feel free to reach out if you have questions or ideas!
-
----
-
-**⭐️ Don't forget to star the repo if you found it helpful!**
 
